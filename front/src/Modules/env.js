@@ -1,3 +1,3 @@
 export const env = {
-  baseUrlApi: 'http://localhost:4000',
+  baseUrlApi: 'http://192.168.18.35:4000',
 };
